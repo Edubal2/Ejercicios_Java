@@ -10,6 +10,7 @@ public class Ejer4_25 {
             if(n==0)break;
             n1=n;
             n2=n1;
+            //hola
         }
 
     }
